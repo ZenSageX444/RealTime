@@ -1,0 +1,13 @@
+---
+
+# update realTime every tick
+# tick 20 is 1 seconds
+
+updateTick: 30
+
+# disable realTime in the world
+
+disableWorld:
+- disableWorldName1
+- disableWorldName2
+...
