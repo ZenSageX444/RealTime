@@ -3,9 +3,8 @@
 	<br>
 </p>
 
-[Language English](#english)
-
-**join discord server** **[click](https://discord.com/invite/HcXTaB8UwA)*
+**please join *[discord](https://discord.com/invite/HcXTaB8UwA)* server** 
+**welcome to Community in discord** 
 
 ![1](https://github.com/ZenSageX444/RealTime/blob/main/images/icon.png)
 
