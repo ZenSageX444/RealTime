@@ -15,9 +15,13 @@ This **plugin** updates world time in realtime. **24/7 hours**
 
  **update realTime every tick**
  **tick 20 is 1 seconds**
+```
 updateTick: 30
+```
 
  **disable realTime in the world**
+```
 disableWorld:
  - disableWorld1
  - disableWorld2
+```
