@@ -3,8 +3,7 @@
 	<br>
 </p>
 
-**please join *[discord](https://discord.com/invite/HcXTaB8UwA)* server** 
-**welcome to Community in discord** 
+
 
 ![1](https://github.com/ZenSageX444/RealTime/blob/main/images/icon.png)
 
@@ -15,13 +14,16 @@ This **plugin** updates world time in realtime. **24/7 hours**
 
  **update realTime every tick**
  **tick 20 is 1 seconds**
-```
+```yml
 updateTick: 30
 ```
 
  **disable realTime in the world**
-```
+```yml
 disableWorld:
  - disableWorld1
  - disableWorld2
 ```
+
+# Community group
+*[**💬discord**](https://discord.com/invite/HcXTaB8UwA)*
