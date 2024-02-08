@@ -6,12 +6,15 @@
 ![1](https://github.com/ZenSageX444/RealTime/blob/main/images/icon.png)
 
 ## 🧐 Why RealTime
-This plugin updates world time in realtime.
+This **plugin** updates world time in realtime. **24/7 hours**
 
 ## 📜 Config
-```yml
+
+# update realTime every tick
+# tick 20 is 1 seconds 
 updateTick: 30
+
+# disable realTime in the world
 disableWorld:
  - disableWorld1
  - disableWorld2
-```
