@@ -2,5 +2,5 @@ name: RealTime
 main: ZenSageX444\RealTime\RealTime
 version: 1.0.0
 api: [4.0.0, 5.0.0]
-author: ゼンセージ_X
+author: ゼンセージ_X, DARUMA/んひた
 website: https://github.com/ZenSageX444/RealTime
