@@ -13,6 +13,7 @@ This **plugin** updates world time in realtime. **24/7 hours**
 ## 📜 Config
 
  **update realTime every tick**
+ 
  **tick 20 is 1 seconds**
 ```yml
 updateTick: 30
